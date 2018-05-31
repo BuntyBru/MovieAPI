@@ -1,0 +1,13 @@
+.upperTab
+{
+  background-color:teal;
+}
+
+.item
+{
+	height: 750px;
+	width: 350px;
+	border: 2px solid black;
+	margin: 30px;
+	padding: 10px;
+}
